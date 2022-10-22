@@ -1,0 +1,135 @@
+body{
+    background-color: rgb(252, 201, 61);
+}
+
+.solapas{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+h1{
+    background-color: white;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-family: 'Acme', sans-serif;
+    border: 1px solid black;
+    box-shadow: 10px 10px 15px black;
+}
+
+
+.imagenprincipal{
+    height: 500px;
+    width: 100%;
+}
+    
+.tarjetas{
+    max-width: 300px;
+    border: 1px solid black;
+    margin: 30px;
+    background-color: white;
+    padding: 10px;
+}
+
+.principal{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+}
+
+.contactos{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    box-shadow: 5px 5px 10px black;
+}
+
+.contactanos{
+    position: sticky;
+    bottom: 0px;
+}
+
+#experiencia{
+    padding: 10px;
+    max-width: 1300px;
+    border: 5px solid black;
+    box-shadow: 10px 10px 15px black;
+}
+
+#formacionacademica{
+    padding: 10px;
+    max-width: 1300px;
+    border: 5px solid black;
+    box-shadow: 10px 10px 15px black;
+}
+
+#massobremi{
+    padding: 10px;
+    max-width: 1300px;
+    border: 5px solid black;
+    box-shadow: 10px 10px 15px black;
+}
+
+section{
+    font-family: 'Itim', cursive;
+}
+
+main{
+    font-family: 'Itim', cursive;
+}
+
+nav{
+    font-family: 'Itim', cursive;
+}
+
+.imagenobra1{
+    height: 425px
+}
+
+.imagenobra2{
+    height: 425px;
+}
+
+.imagenobra3{
+    height: 425px;
+}
+
+.imagenobra4{
+    height: 425px;
+}
+
+.imagenobra5{
+    height: 425px;
+}
+
+.imagenobra6{
+    height: 425px;
+}
+
+.imagenobra7{
+    height: 425px;
+}
+
+.imagenobra8{
+    height: 425px;
+}
+
+.imagenobra9{
+    height: 425px;
+}
