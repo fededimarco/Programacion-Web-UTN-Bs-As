@@ -18,7 +18,7 @@ h1{
     height: 500px;
     width: 80%;
     position: relative;
-    right: -125px;
+    right: -135px;
 }
 
 nav{
@@ -93,6 +93,18 @@ main{
     height: 425px;
 }
 
+.imagenobra10{
+    height: 225px;
+}
+
+.imagenobra11{
+    height: 225px;
+}
+
+.imagenobra12{
+    height: 129px;
+}
+
 section{
     font-family: 'Itim', cursive;
 }
@@ -132,4 +144,10 @@ section{
     background-color: black;
     color: white;
     box-shadow: 5px 5px 10px black;
+    text-decoration: none;
+}
+
+.hipervinculos{
+    text-decoration: none;
+    color: white;
 }

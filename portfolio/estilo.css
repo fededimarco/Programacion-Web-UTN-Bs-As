@@ -1,0 +1,132 @@
+*{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+nav{
+    position: sticky!important;
+    top: 0px!important;
+}
+
+.fa-brands{
+    font-size: 20px;
+    color: black;
+}
+
+.fa-solid{
+    font-size: 20px;
+    color: black;
+}
+
+.imagenperfil{
+    width: 300px;
+    border-radius: 50%;
+    border: 10px solid white;
+}
+
+.cabecera{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+    padding: 100px 0px;
+    background-color: #5F9DF7;
+    align-items: center;
+}
+
+.botonRelleno{
+    text-decoration: none;
+    margin-right: 20px;
+    padding: 7px;
+    background-color: black;
+    color: white;
+}
+
+.boton{
+    color: black;
+}
+
+.principal{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.tarjetas{
+    max-width: 300px;
+    border: 1px solid black;
+    margin: 30px;
+    background-color: #b2bac7;
+    padding: 10px;
+}
+
+.imagenobra1{
+    height: 394px
+}
+
+.imagenobra2{
+    height: 394px;
+}
+
+.imagenobra3{
+    height: 394px;
+}
+
+.imagenobra4{
+    height: 394px;
+}
+
+.imagenobra5{
+    height: 394px;
+}
+
+.imagenobra6{
+    height: 394px;
+}
+
+.imagenobra7{
+    height: 394px;
+}
+
+.imagenobra8{
+    height: 394px;
+}
+
+.imagenobra9{
+    height: 394px;
+}
+
+.imagenobra10{
+    height: 208px;
+}
+
+.imagenobra11{
+    height: 208px;
+}
+
+.imagenobra12{
+    height: 119px;
+}
+
+#experiencia{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #5F9DF7;
+    padding: 10px;
+}
+
+#formacionacademica{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #5F9DF7;
+    padding: 10px;
+}
+
+#massobremi{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #5F9DF7;
+    padding: 10px;
+}
